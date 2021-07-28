@@ -6135,11 +6135,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/keval/Projects/IsItALeapYear/UnitTest1/UnitTest1.csproj",
+      "projectUniqueName": "/Users/keval/Projects/IsItALeapYear/CP380-IsItALeapYear/UnitTest1/UnitTest1.csproj",
       "projectName": "UnitTest1",
-      "projectPath": "/Users/keval/Projects/IsItALeapYear/UnitTest1/UnitTest1.csproj",
+      "projectPath": "/Users/keval/Projects/IsItALeapYear/CP380-IsItALeapYear/UnitTest1/UnitTest1.csproj",
       "packagesPath": "/Users/keval/.nuget/packages/",
-      "outputPath": "/Users/keval/Projects/IsItALeapYear/UnitTest1/obj/",
+      "outputPath": "/Users/keval/Projects/IsItALeapYear/CP380-IsItALeapYear/UnitTest1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/keval/.config/NuGet/NuGet.Config"
@@ -6154,8 +6154,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/keval/Projects/IsItALeapYear/IsItALeapYear/IsItALeapYear.csproj": {
-              "projectPath": "/Users/keval/Projects/IsItALeapYear/IsItALeapYear/IsItALeapYear.csproj"
+            "/Users/keval/Projects/IsItALeapYear/CP380-IsItALeapYear/IsItALeapYear/IsItALeapYear.csproj": {
+              "projectPath": "/Users/keval/Projects/IsItALeapYear/CP380-IsItALeapYear/IsItALeapYear/IsItALeapYear.csproj"
             }
           }
         }

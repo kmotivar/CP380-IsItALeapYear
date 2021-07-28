@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N9urVnOmHIIVMZmosv9vzpmAqBkmEvqrr4VSOhq+DKzV6xGySoMwqUU4SXEVH8EkGa+fdSIDWzV6DIrmGm5J3A==",
+  "dgSpecHash": "age8R05O1CayPtF8OwwzkFa3bQFx74FZM8dsQ5uFoh4/AsGRLdTCRCCMUfOWqjnMaxmaYbo/4hqhUwfA+wPgLA==",
   "success": true,
-  "projectFilePath": "/Users/keval/Projects/IsItALeapYear/UnitTest1/UnitTest1.csproj",
+  "projectFilePath": "/Users/keval/Projects/IsItALeapYear/CP380-IsItALeapYear/UnitTest1/UnitTest1.csproj",
   "expectedPackageFiles": [
     "/Users/keval/.nuget/packages/coverlet.collector/3.0.2/coverlet.collector.3.0.2.nupkg.sha512",
     "/Users/keval/.nuget/packages/microsoft.codecoverage/16.9.4/microsoft.codecoverage.16.9.4.nupkg.sha512",

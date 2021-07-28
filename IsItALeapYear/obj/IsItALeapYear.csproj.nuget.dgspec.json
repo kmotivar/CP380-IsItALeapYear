@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/keval/Projects/IsItALeapYear/IsItALeapYear/IsItALeapYear.csproj": {}
+    "/Users/keval/Projects/IsItALeapYear/CP380-IsItALeapYear/IsItALeapYear/IsItALeapYear.csproj": {}
   },
   "projects": {
-    "/Users/keval/Projects/IsItALeapYear/IsItALeapYear/IsItALeapYear.csproj": {
+    "/Users/keval/Projects/IsItALeapYear/CP380-IsItALeapYear/IsItALeapYear/IsItALeapYear.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/keval/Projects/IsItALeapYear/IsItALeapYear/IsItALeapYear.csproj",
+        "projectUniqueName": "/Users/keval/Projects/IsItALeapYear/CP380-IsItALeapYear/IsItALeapYear/IsItALeapYear.csproj",
         "projectName": "IsItALeapYear",
-        "projectPath": "/Users/keval/Projects/IsItALeapYear/IsItALeapYear/IsItALeapYear.csproj",
+        "projectPath": "/Users/keval/Projects/IsItALeapYear/CP380-IsItALeapYear/IsItALeapYear/IsItALeapYear.csproj",
         "packagesPath": "/Users/keval/.nuget/packages/",
-        "outputPath": "/Users/keval/Projects/IsItALeapYear/IsItALeapYear/obj/",
+        "outputPath": "/Users/keval/Projects/IsItALeapYear/CP380-IsItALeapYear/IsItALeapYear/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/keval/.config/NuGet/NuGet.Config"

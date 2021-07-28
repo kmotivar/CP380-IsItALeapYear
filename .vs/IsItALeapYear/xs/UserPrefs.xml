@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{25AEA032-7518-4E2C-BE66-52BABB2757E5}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.UnitTest1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnitTest1/UnitTest1.cs">
+    <Files>
+      <File FileName="IsItALeapYear/Program.cs" Line="1" Column="1" />
+      <File FileName="UnitTest1/UnitTest1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IsItALeapYear" expanded="True">
+            <Node name="IsItALeapYear" expanded="True" />
+            <Node name="UnitTest1" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.IsItALeapYear PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
